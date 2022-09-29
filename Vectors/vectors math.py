@@ -1,5 +1,4 @@
 import math
-from secrets import choice
 vec_1=[]
 vec_2=[]
 
