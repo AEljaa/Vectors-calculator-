@@ -7,7 +7,7 @@ def Menu():
     print("1. Dot Product Calcultaor")
     print("2. Cross Product Calculator")
     print("3. Shortest distance betwwen a point and a plane Calculator")
-    print("4. Angle betwwen 2 vectors, a plane and a vector or 2 planes")
+    print("4. Angle between 2 vectors, a plane and a vector or 2 planes")
     print("")
     choice=int(input("Which mode would you like to use?\n"))
     if choice==1:
